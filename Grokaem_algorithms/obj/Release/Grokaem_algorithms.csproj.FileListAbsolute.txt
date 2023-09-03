@@ -1,0 +1,7 @@
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\bin\Release\Grokaem_algorithms.exe.config
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\bin\Release\Grokaem_algorithms.exe
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\bin\Release\Grokaem_algorithms.pdb
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\obj\Release\Grokaem_algorithms.csproj.AssemblyReference.cache
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\obj\Release\Grokaem_algorithms.csproj.CoreCompileInputs.cache
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\obj\Release\Grokaem_algorithms.exe
+C:\Users\MagicWheel\Documents\Code_Base\C#\Grokaem_algorithms\Grokaem_algorithms\obj\Release\Grokaem_algorithms.pdb
